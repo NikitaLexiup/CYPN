@@ -87,6 +87,12 @@ body {
   color: rgb(0, 0, 0);
 }
 
+.btnConvert button {
+  cursor: pointer;
+  background: none;
+  color: white;
+}
+
 .btnConvert > span {
   display: block;
   width: 100%;
